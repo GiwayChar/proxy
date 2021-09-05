@@ -27,3 +27,7 @@ export HTTPS_PROXY=https///$proxy_addr:$proxy_port
 export FTP_PROXY=http://$proxy_addr:$proxy_port
 export NO_PROXY=127.0.0.1,localhost
 ```
+
+```
+然而最后发现还是windows最棒了！！
+```
